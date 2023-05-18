@@ -6,7 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinizjp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinizjp&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+</div>
+</div>
   ## Some Tools that I work with
   <!-- Tools  -->
   <div style="display: inline_block">
@@ -16,7 +17,7 @@
     <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-   </div>
+  </div>
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img align="center"src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img align="center"src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
