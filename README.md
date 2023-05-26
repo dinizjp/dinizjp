@@ -25,7 +25,7 @@
 
  ## Feel Free to Contact Me on any channel
 <div> 
-  <a href="[in/joão-pedro-diniz-b997b5220](https://www.linkedin.com/in/jo%C3%A3o-pedro-diniz-b997b5220/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-diniz-b997b5220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:joopedrodiniz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
