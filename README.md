@@ -18,6 +18,10 @@
     <img align="center"src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
     <img align="center"src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </div>
+ 
+ <div style="display: inline_block">
+  <img align="center"src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
 
  ## Feel free to contact me on any channel
 <div> 
