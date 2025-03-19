@@ -17,7 +17,7 @@
     <img align="center"src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
   </div>
 
- ## Feel Free to Contact Me on any channel
+ ## Feel free to contact me on any channel
 <div> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-diniz-b997b5220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:joopedrodiniz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
