@@ -7,8 +7,6 @@ Trabalho com dados e automação: integro sistemas, organizo dados e construo ag
 | Projeto | O que é |
 |---|---|
 | [concilia](https://github.com/dinizjp/concilia) | Conciliação financeira automática com Claude Code: puxa o extrato pelo Open Finance (Pluggy), compara com o Organizze e lança o que falta. |
-| [ciencia-de-dados](https://github.com/dinizjp/ciencia-de-dados) | Meus projetos e estudos de análise de dados, com dashboards em Streamlit e ensaios de machine learning. |
-| [Fechamento_Caixa](https://github.com/dinizjp/Fechamento_Caixa) | App em Streamlit que consulta o SQL Server e gera o relatório de fechamento de caixa em Excel por período. |
 | [terminal_config](https://github.com/dinizjp/terminal_config) | Meu ambiente de terminal (zsh, Ghostty, Starship) com instalação automática para Mac, Linux e VPS. |
 
 ## Ferramentas
