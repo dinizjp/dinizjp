@@ -2,13 +2,26 @@
 
 **Implementation Analyst at Tivita** · Data & Automation · Python, SQL, n8n
 
-I lead end-to-end implementations of Tivita's platform and AI agents for healthcare clinics: operations mapping, configuration, data migration and go-live. I also help shape the implementation process itself, turning manual, repetitive work into standardized, scalable workflows.
+I work where operations meet data: taking messy processes and scattered information and turning them into automated, reliable workflows. I came to data from e-commerce, after running my own store for 4.5 years, so I tend to start from the business process, not the tool.
 
-- 20+ clinics implemented, running several projects in parallel from kick-off to go-live
+## Now
+
+At **Tivita**, a healthtech that automates financial routines for medical clinics, I lead end-to-end implementations of the platform and its AI agents: operations mapping, configuration, data migration and go-live.
+
+- 20+ clinics implemented, with several projects running in parallel
 - GenAI automations for the implementation process, built with the team
-- Weekly community of practice among implementation analysts
+- A weekly community of practice among implementation analysts
 
-Outside work I build my own tools with **Claude Code**, and now and then I take on a data or automation project.
+I'm also studying for a Bachelor's in Statistics, and I build my own tools with **Claude Code**.
+
+## Before
+
+| When | Where | What I did |
+|---|---|---|
+| 2025–2026 | Metrik Lab (my company) | Data and automation projects for small businesses: ETL, API integrations, n8n and Google Apps Script |
+| 2024–2025 | Momê Açaí | Built the company's first data structure; cut the daily cash closing from 3 hours to 30 minutes |
+| 2024 | Construtora M21 | Data analyst |
+| 2018–2023 | My own e-commerce store | Ran the whole operation: finance, inventory, customer service and delivery |
 
 ## Featured
 
