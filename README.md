@@ -1,15 +1,23 @@
-## Olá, eu sou o João Pedro 👋
+## Hi, I'm João Pedro 👋
 
-Trabalho com dados e automação: integro sistemas, organizo dados e construo agentes de IA que tiram trabalho manual do dia a dia. Hoje desenvolvo principalmente com o **Claude Code**, em Python, e toco a **Metrik Lab**, onde faço automações e análises para empresas.
+**Implementation Analyst at Tivita** · Data & Automation · Python, SQL, n8n
 
-## Em destaque
+I lead end-to-end implementations of Tivita's platform and AI agents for healthcare clinics: operations mapping, configuration, data migration and go-live. I also help shape the implementation process itself, turning manual, repetitive work into standardized, scalable workflows.
 
-| Projeto | O que é |
+- 20+ clinics implemented, running several projects in parallel from kick-off to go-live
+- GenAI automations for the implementation process, built with the team
+- Weekly community of practice among implementation analysts
+
+Outside work I build my own tools with **Claude Code**, and now and then I take on a data or automation project.
+
+## Featured
+
+| Project | What it is |
 |---|---|
-| [concilia](https://github.com/dinizjp/concilia) | Conciliação financeira automática com Claude Code: puxa o extrato pelo Open Finance (Pluggy), compara com o Organizze e lança o que falta. |
-| [terminal_config](https://github.com/dinizjp/terminal_config) | Meu ambiente de terminal (zsh, Ghostty, Starship) com instalação automática para Mac, Linux e VPS. |
+| [concilia](https://github.com/dinizjp/concilia) | Automatic personal-finance reconciliation with Claude Code: pulls statements through Open Finance (Pluggy), compares them with Organizze and records what is missing. |
+| [terminal_config](https://github.com/dinizjp/terminal_config) | My terminal setup (zsh, Ghostty, Starship) with install scripts for macOS, Linux and VPS. |
 
-## Ferramentas
+## Tools
 
 <div>
   <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,7 +33,7 @@ Trabalho com dados e automação: integro sistemas, organizo dados e construo ag
   <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-## Contato
+## Contact
 
 <div>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-diniz-b997b5220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
