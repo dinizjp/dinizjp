@@ -36,6 +36,6 @@ Outside work I build my own tools with **Claude Code**, and now and then I take 
 ## Contact
 
 <div>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-diniz-b997b5220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dinizjp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:joopedrodiniz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
